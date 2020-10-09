@@ -2,6 +2,10 @@ body {
     font-family: 'raleway', sans-serif;
   }
 
+.color {
+    background-color: black;
+}
+
 .logo {
     height: 60px;
     margin: 0;
@@ -16,6 +20,10 @@ body {
     background-size: cover;
     background-position: right;
     padding-bottom: 5rem;
+  }
+
+  .fondo-carrucel {
+      background-color: purple;
   }
   
   .carousel-indicators {
